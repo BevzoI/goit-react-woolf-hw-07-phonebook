@@ -1,5 +1,7 @@
 @import 'reset.css'; /* bring in custom reset styles */
 
+@import 'reset.css'; /* bring in custom reset styles */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
